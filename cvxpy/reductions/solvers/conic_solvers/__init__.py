@@ -18,6 +18,7 @@ from .cbc_conif import CBC
 from .clarabel_conif import CLARABEL
 from .copt_conif import COPT
 from .cplex_conif import CPLEX
+from .cupdlp_conif import CUPDLP
 from .cvxopt_conif import CVXOPT
 from .diffcp_conif import DIFFCP
 from .ecos_conif import ECOS
